@@ -29,7 +29,7 @@ classifiers = [
 description-file = "README.md"
 requires-python = ">=3.7"
 requires = [
-    "pydantic==1.9.0",
+    "pydantic~=1.9.0",
     "Django<4",
     "typing_extensions>=3.7.4.3"
 ]
